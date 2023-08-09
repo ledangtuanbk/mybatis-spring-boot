@@ -20,3 +20,7 @@ The following guides illustrate how to use some features concretely:
 ## In statll mysql in localhost
 create a new database test
 ## update DB_USER and DB_PASSWORD in application.properties
+
+
+Support me to writer more interesting docs 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ledangtuanbk)
