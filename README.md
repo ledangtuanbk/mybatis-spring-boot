@@ -17,7 +17,7 @@ The following guides illustrate how to use some features concretely:
 * [MyBatis Quick Start](https://github.com/mybatis/spring-boot-starter/wiki/Quick-Start)
 
 ### To run project
-## In statll mysql in localhost
+## Install mysql in localhost
 create a new database test
 ## update DB_USER and DB_PASSWORD in application.properties
 
